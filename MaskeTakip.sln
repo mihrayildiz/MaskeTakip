@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workaround", "Workaround\Workaround.csproj", "{3E5FFE3A-609F-449C-A619-263B429D2DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{2EC9C238-62F4-4912-A885-3F80FA14BDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{861AEF9B-76E8-4358-B0E7-9C6549887BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5FFE3A-609F-449C-A619-263B429D2DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5FFE3A-609F-449C-A619-263B429D2DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5FFE3A-609F-449C-A619-263B429D2DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5FFE3A-609F-449C-A619-263B429D2DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC9C238-62F4-4912-A885-3F80FA14BDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC9C238-62F4-4912-A885-3F80FA14BDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC9C238-62F4-4912-A885-3F80FA14BDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC9C238-62F4-4912-A885-3F80FA14BDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861AEF9B-76E8-4358-B0E7-9C6549887BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861AEF9B-76E8-4358-B0E7-9C6549887BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861AEF9B-76E8-4358-B0E7-9C6549887BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861AEF9B-76E8-4358-B0E7-9C6549887BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CDABFFC-7030-4819-86FD-E7C298123B92}
+	EndGlobalSection
+EndGlobal
